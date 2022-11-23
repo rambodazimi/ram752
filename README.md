@@ -27,6 +27,9 @@ https://rambodazimi.github.io/ram752/
 Additional information:
 
 First of all, I decided to dedicate the time working on building a website for the latest protests in Iran (2022 Revolution) instead of Aban 98 protests. It's obvious that the most important part is about the design and development, not the content of the website. The website coulb easily be updated with more contents.
+
 Secondly, I prefered to work on the "English" version due to the limiation of the time. I can easily add a feature to have "Farsi" version of the website as well, which is easyly implementable if I have more time to do so.
+
 Thirdly, all the videos on the website have been created by myself.
+
 Lastly, thanks for the opportunity! Zan, Zendegi, Azadi!
